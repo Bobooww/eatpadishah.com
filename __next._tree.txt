@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0bkqv7ik801jo.css","style"]
+:HL["/fonts/cormorant-normal-500-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/fonts/manrope-normal-400-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"hP9oHiVCV0OfHrqtEophH"}
